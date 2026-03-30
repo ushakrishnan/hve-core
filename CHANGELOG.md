@@ -12,6 +12,35 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 > **Note:** This file is automatically maintained by [release-please](https://github.com/googleapis/release-please). Do not edit manually.
 
+## [3.3.11](https://github.com/microsoft/hve-core/compare/hve-core-v3.3.10...hve-core-v3.3.11) (2026-03-30)
+
+
+### 🐛 Bug Fixes
+
+* **agents:** replace anchor links in meeting-analyst with bold text references ([#1201](https://github.com/microsoft/hve-core/issues/1201)) ([cd6f7ed](https://github.com/microsoft/hve-core/commit/cd6f7edda977045807dd643662700ec47015c822))
+* **build:** resolve npm audit vulnerabilities via dependency overrides ([#1200](https://github.com/microsoft/hve-core/issues/1200)) ([5fc601b](https://github.com/microsoft/hve-core/commit/5fc601bcfef9714b7ac2ef61dcfc71fe13e3ca54))
+* **docs:** separate mermaid node declarations and add dynamic diagram generation with tests ([#1215](https://github.com/microsoft/hve-core/issues/1215)) ([934c30b](https://github.com/microsoft/hve-core/commit/934c30b132536a31d84a423520c61f1341d3fcf2))
+* **skills:** remove recursive symlinks in jira and gitlab skill directories ([#1233](https://github.com/microsoft/hve-core/issues/1233)) ([ed903fd](https://github.com/microsoft/hve-core/commit/ed903fd6111ecb884728438632b009888190a143))
+* validate-installation scripts now check .github/skills directory ([#1010](https://github.com/microsoft/hve-core/issues/1010)) ([#1206](https://github.com/microsoft/hve-core/issues/1206)) ([b181c20](https://github.com/microsoft/hve-core/commit/b181c200a4fae2af71415c325a08a80c29994b61))
+* **workflows:** sync package-lock.json after pre-release version bump ([#1236](https://github.com/microsoft/hve-core/issues/1236)) ([2b084e0](https://github.com/microsoft/hve-core/commit/2b084e009177034494defb9515fff4c274418419))
+
+
+### ♻️ Refactoring
+
+* **coding-standards:** align agent and prompt folder names to collection identifier ([#1210](https://github.com/microsoft/hve-core/issues/1210)) ([3b1d408](https://github.com/microsoft/hve-core/commit/3b1d408240cb9da8f20df474019c1f1c90b8f356))
+
+
+### 🔧 Maintenance
+
+* **deps-dev:** bump handlebars from 4.7.8 to 4.7.9 in /docs/docusaurus ([#1217](https://github.com/microsoft/hve-core/issues/1217)) ([f014f58](https://github.com/microsoft/hve-core/commit/f014f58819905d7df45749b0d5a6929f9b167732))
+* **deps:** bump brace-expansion ([#1224](https://github.com/microsoft/hve-core/issues/1224)) ([f7457a6](https://github.com/microsoft/hve-core/commit/f7457a6a6da84125e170a81a2b36d04bfdf4e049))
+* **deps:** bump brace-expansion from 5.0.3 to 5.0.5 in /docs/docusaurus ([#1213](https://github.com/microsoft/hve-core/issues/1213)) ([8716461](https://github.com/microsoft/hve-core/commit/8716461389cb5611db43c083e9fa57ff55e65b65))
+* **deps:** bump path-to-regexp from 0.1.12 to 0.1.13 in /docs/docusaurus ([#1226](https://github.com/microsoft/hve-core/issues/1226)) ([b40e682](https://github.com/microsoft/hve-core/commit/b40e682a43cde9a71a44477ff52dac06f9ae8c93))
+* **deps:** bump pygments from 2.19.2 to 2.20.0 in /.github/skills/gitlab/gitlab ([#1234](https://github.com/microsoft/hve-core/issues/1234)) ([997dd76](https://github.com/microsoft/hve-core/commit/997dd76e759420fe60c2a6ff5918d1dd63a0b2c7))
+* **deps:** bump the github-actions group with 4 updates ([#1231](https://github.com/microsoft/hve-core/issues/1231)) ([6ac66a6](https://github.com/microsoft/hve-core/commit/6ac66a67d8546535b6d3e35f8756698c39786e84))
+* **plugins:** preserve subdirectories and suffixes in plugin generation ([#1188](https://github.com/microsoft/hve-core/issues/1188)) ([51c3781](https://github.com/microsoft/hve-core/commit/51c378192ca17ba54a69fd0c9a734963ce62eb7b))
+* **settings:** add missing folders and alphabetize location lists ([#1193](https://github.com/microsoft/hve-core/issues/1193)) ([f077d81](https://github.com/microsoft/hve-core/commit/f077d81e16d18a2efb8257bd63f830e56550162e))
+
 ## [3.2.2](https://github.com/microsoft/hve-core/compare/hve-core-v3.2.1...hve-core-v3.2.2) (2026-03-23)
 
 
