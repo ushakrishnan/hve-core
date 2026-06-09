@@ -45,7 +45,7 @@ Experimental and preview artifacts not yet promoted to stable collections. Items
 | **mural**                | Mural workspace, room, mural, and widget workflows via the Mural REST API exposed through a Python CLI. Use when you need to read or write Mural content or automate widget creation. |
 | **powerpoint**           | PowerPoint slide deck generation and management using python-pptx with YAML-driven content and styling                                                                                |
 | **tts-voiceover**        | Text-to-speech voice-over generation from YAML speaker notes using Azure Speech SDK with SSML pronunciation control                                                                   |
-| **video-to-gif**         | Video-to-GIF conversion skill with FFmpeg two-pass optimization                                                                                                                       |
+| **video-to-gif**         | Video-to-GIF conversion with FFmpeg two-pass optimization                                                                                                                             |
 | **vscode-playwright**    | VS Code screenshot capture using Playwright MCP with serve-web for slide decks and documentation                                                                                      |
 
 <!-- END AUTO-GENERATED ARTIFACTS -->
