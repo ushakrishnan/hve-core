@@ -1,12 +1,12 @@
 {
   "CleanWorkspace": {
     "ScenarioName": "CleanWorkspace",
-    "AgentBytes": 10881,
-    "ColdStartBytes": 40396,
+    "AgentBytes": 10842,
+    "ColdStartBytes": 40357,
     "LoadedFiles": [
       {
         "Path": ".github/agents/project-planning/adr-creation.agent.md",
-        "Bytes": 10881
+        "Bytes": 10842
       },
       {
         "Path": ".github/instructions/project-planning/adr-identity.instructions.md",
@@ -17,16 +17,16 @@
         "Bytes": 5228
       }
     ],
-    "Hash": "16ba99b0cb54160697533568c4e53e0522618947500a919dc778bbd8dcce93e1"
+    "Hash": "89eb49c9fe3a1c4c9972aeb5625fe5c9fa0c38727e85be5750820be2cd968278"
   },
   "SteadyState": {
     "ScenarioName": "SteadyState",
-    "AgentBytes": 10881,
-    "ColdStartBytes": 82311,
+    "AgentBytes": 10842,
+    "ColdStartBytes": 82272,
     "LoadedFiles": [
       {
         "Path": ".github/agents/project-planning/adr-creation.agent.md",
-        "Bytes": 10881
+        "Bytes": 10842
       },
       {
         "Path": ".github/instructions/project-planning/adr-byo-template.instructions.md",
@@ -53,16 +53,16 @@
         "Bytes": 5228
       }
     ],
-    "Hash": "13010508a9663b5a187e62dd6e9f7c022a28fb6a5927df052798080f41cabf18"
+    "Hash": "cab824f5a1348b311acaf757a6a0e6543b847027044082632517f39d309993e7"
   },
   "GovernEntry": {
     "ScenarioName": "GovernEntry",
-    "AgentBytes": 10881,
-    "ColdStartBytes": 95842,
+    "AgentBytes": 10842,
+    "ColdStartBytes": 95803,
     "LoadedFiles": [
       {
         "Path": ".github/agents/project-planning/adr-creation.agent.md",
-        "Bytes": 10881
+        "Bytes": 10842
       },
       {
         "Path": ".github/instructions/project-planning/adr-byo-template.instructions.md",
@@ -93,16 +93,16 @@
         "Bytes": 13531
       }
     ],
-    "Hash": "e672463f96dc69e20c36fd9c8355ad7abcd69376d178aff3391f2003888ffe23"
+    "Hash": "1510fe103ba4a1c42849c4e16e71bcb4dc33d4381b092a8b5287497c2306ab3c"
   },
   "AdoptTemplate": {
     "ScenarioName": "AdoptTemplate",
-    "AgentBytes": 10881,
-    "ColdStartBytes": 102836,
+    "AgentBytes": 10842,
+    "ColdStartBytes": 102797,
     "LoadedFiles": [
       {
         "Path": ".github/agents/project-planning/adr-creation.agent.md",
-        "Bytes": 10881
+        "Bytes": 10842
       },
       {
         "Path": ".github/instructions/project-planning/adr-byo-template.instructions.md",
@@ -137,6 +137,6 @@
         "Bytes": 13531
       }
     ],
-    "Hash": "639d2ce0f4e7cbec2f5dfe001505e86023a87e2f8d2b35116c818e44ddb45a1f"
+    "Hash": "38d65b6a43c783144ccb2979e7afc84aa0f6e8c3dc310fcecf0fb71476a07b74"
   }
 }

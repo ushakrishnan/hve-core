@@ -13,10 +13,10 @@ Manage Jira backlog workflows and PRD-driven issue planning from VS Code. This c
 
 ### Chat Agents
 
-| Name                     | Description                                                                                                               |
-|--------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| **jira-backlog-manager** | Orchestrator agent for Jira backlog management workflows including discovery, triage, execution, and single-issue actions |
-| **jira-prd-to-wit**      | Product Manager expert for analyzing PRDs and planning Jira issue hierarchies without mutating Jira                       |
+| Name                     | Description                                                                                         |
+|--------------------------|-----------------------------------------------------------------------------------------------------|
+| **jira-backlog-manager** | Jira backlog orchestrator for discovery, triage, execution, and single-issue actions                |
+| **jira-prd-to-wit**      | Product Manager expert for analyzing PRDs and planning Jira issue hierarchies without mutating Jira |
 
 ### Prompts
 
@@ -55,10 +55,10 @@ copilot plugin install jira@hve-core
 
 ## Agents
 
-| Agent                | Description                                                                                                                                                      |
-|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| jira-backlog-manager | Orchestrator agent for Jira backlog management workflows including discovery, triage, execution, and single-issue actions - Brought to you by microsoft/hve-core |
-| jira-prd-to-wit      | Product Manager expert for analyzing PRDs and planning Jira issue hierarchies without mutating Jira - Brought to you by microsoft/hve-core                       |
+| Agent                | Description                                                                                         |
+|----------------------|-----------------------------------------------------------------------------------------------------|
+| jira-backlog-manager | Jira backlog orchestrator for discovery, triage, execution, and single-issue actions                |
+| jira-prd-to-wit      | Product Manager expert for analyzing PRDs and planning Jira issue hierarchies without mutating Jira |
 
 ## Commands
 

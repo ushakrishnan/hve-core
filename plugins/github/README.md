@@ -13,9 +13,9 @@ Manage GitHub issue backlogs with agents for discovery, triage, sprint planning,
 
 ### Chat Agents
 
-| Name                       | Description                                                                                                            |
-|----------------------------|------------------------------------------------------------------------------------------------------------------------|
-| **github-backlog-manager** | Orchestrator agent for GitHub backlog management workflows including triage, discovery, sprint planning, and execution |
+| Name                       | Description                                                                       |
+|----------------------------|-----------------------------------------------------------------------------------|
+| **github-backlog-manager** | GitHub backlog orchestrator for triage, discovery, sprint planning, and execution |
 
 ### Prompts
 
@@ -55,9 +55,9 @@ copilot plugin install github@hve-core
 
 ## Agents
 
-| Agent                  | Description                                                                                                                                                   |
-|------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| github-backlog-manager | Orchestrator agent for GitHub backlog management workflows including triage, discovery, sprint planning, and execution - Brought to you by microsoft/hve-core |
+| Agent                  | Description                                                                       |
+|------------------------|-----------------------------------------------------------------------------------|
+| github-backlog-manager | GitHub backlog orchestrator for triage, discovery, sprint planning, and execution |
 
 ## Commands
 
